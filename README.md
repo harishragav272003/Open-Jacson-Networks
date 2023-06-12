@@ -17,13 +17,14 @@ Visual components and Python
 
 
 ## Experiment:
-![image](https://github.com/harishragav272003/Open-Jacson-Networks/assets/119345345/c8483425-f20b-43a5-b849-f4676fa0f8f5)
+![image](https://github.com/harishragav272003/Open-Jacson-Networks/assets/119345345/04505da3-60d1-4ab1-9980-c1a4a8fd5ad5)
 
+![image](https://github.com/harishragav272003/Open-Jacson-Networks/assets/119345345/78354312-ab57-469e-b49a-7f40759b8776)
 
 ## Program : 
 ```
-Developed by: K.R.Hashish Vidya Sagar
-Reg no:212222230047
+Developed by : HARISH RAGAV S
+Reg no: 212222110013
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -65,6 +66,7 @@ print("----------------------------------------------------------------------")
 
 ```
 ## Output :
+![image](https://github.com/harishragav272003/Open-Jacson-Networks/assets/119345345/0fffe086-4aa2-4589-a41d-b8f58d003d97)
 
 
 ## Result :
